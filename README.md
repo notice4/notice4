@@ -1,6 +1,6 @@
 # ✨ About Me:
 📚 Second-year IT student  
-🤖 Interested in Data Science
+🤖 Interested in Data Science  
 🤝 Looking to collaborate on open-source projects  
 
 # 👨‍💻 Tech Stack:
