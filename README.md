@@ -1,5 +1,5 @@
 # ✨ About Me:
-📚 Junior IT student  
+📚 Senior IT student  
 🤖 Interested in Data Science  
 🤝 Looking to collaborate on open-source projects  
 
